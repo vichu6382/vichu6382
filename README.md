@@ -15,3 +15,6 @@ Full Stack web developer
 
 ### 💻 Projects...
 
+<img width="25" height="25" src="https://img.icons8.com/bubbles/50/bag-front-view.png" alt="bag-front-view"/> LuxeLug – E-commerce Web App <br/>
+(https://luxelug.vercel.app/) [Admin dashborad](https://luxelug-admin.vercel.app/list) <br/>
+
