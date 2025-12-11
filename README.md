@@ -1,76 +1,15 @@
-## Hi there 👋 It's me **Vishnu**
+<h1 align="center">Hi 👋, I'm Vishnu</h1>
+<h3 align="center">🚀 Full Stack Web Developer</h3>
 
-### 🚀 Full Stack Web Developer | MERN Stack | UI/UX Enthusiast  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vishnu6382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu6382" height="30" width="40" /></a>
+<a href="https://instagram.com/vichu_638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vichu_638" height="30" width="40" /></a>
+</p>
 
-<img align="right" width="320" height="240" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-- 🔭 Check out my portfolio → **[vishnu-portfolio-eta.vercel.app](https://vishnu-portfolio-eta.vercel.app/)**
-- 💡 Passionate about building smooth UI, scalable backend systems, and real-time features.
-- 📱 I design for **both mobile & desktop**, ensuring responsive UI across all screens.
-- ⚡ Always learning & upgrading my craft.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vichu6382&show_icons=true&locale=en&layout=compact" alt="vichu6382" /></p>
 
----
-
-## 🌐 Social Presence  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vishnu6382/)  
-[<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/vichu_638/)
-
----
-
-## 💻 I Code In  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
- 
-
----
-
-## 🛠️ IDE & Tools I Use  
-<img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  
-<img height="50" src="https://img.icons8.com/color/50/000000/git.png"/>  
-<img height="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>  
-<img height="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-
----
-
-# 🚀 Projects
-
-### 👜 LuxeLug – Modern E-commerce Web App  
-A fully responsive **e-commerce platform** built for both **mobile and laptop screens**.  
-Includes cart, product management, JWT authentication, and smooth UI animations.
-
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB  
-
-🔗 Live Website → https://luxelug.vercel.app/  
-🛡️ Admin Dashboard → https://luxelug-admin.vercel.app/list  
-
----
-
-### 🎨 Responsive UI (Mobile + Laptop Friendly)  
-I build projects with:  
-✔ Smooth animations  
-✔ Clean layouts  
-✔ Mobile-first responsive design  
-✔ Modern color combinations  
-✔ Real-time interactions when needed  
-
-My designs adapt naturally to:  
-📱 Mobile  
-💻 Laptop  
-🖥️ Large screens  
-— ensuring a pixel-perfect experience everywhere.
-
----
-
-### 💡 More Projects Coming Soon…  
-I’m constantly updating my GitHub with new full-stack apps including:  
-- Real-time chat system  
-- AI-integrated web tools  
-- Advanced admin dashboards  
-- High-performance MERN applications  
-
-Stay tuned 🚀
-
----
-
-### 💬 Let’s Connect  
-I’m always open to collaborations, freelance work, or tech discussions!
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vichu6382&show_icons=true&locale=en" alt="vichu6382" /></p>
