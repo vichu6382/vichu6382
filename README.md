@@ -1,1 +1,23 @@
-# 👋 Hii I am Vishnu 
+# 👋 Hii I Am Vishnu...
+
+### 😎 About Me
+Full Stack Developer passionate about creating modern, responsive web apps with clean UI and strong backend logic. I love building things that work smoothly across mobile and desktop.
+
+---
+
+### 🤖 Skills
+
+
+---
+
+### 🚀 Projects
+
+**Project One**
+LuxeLug is a modern e-commerce website where users can browse products, add items to their cart, and place orders.
+
+**Project Two**
+LuxeLug is a modern e-commerce website where users can browse products, add items to their cart, and place orders.
+
+---
+
+### 📌 Contact
